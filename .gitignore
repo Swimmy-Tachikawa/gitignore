@@ -1,0 +1,15 @@
+#キャッシュデータを除外
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+Session.vim
+
+#画像の排除
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+
